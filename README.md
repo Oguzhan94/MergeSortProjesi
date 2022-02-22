@@ -1,2 +1,0 @@
-# MergeSortProjesi
-Merge Sort Projesi
